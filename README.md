@@ -83,7 +83,7 @@ pytest test_ranker.py -v
 
 ## Sandbox
 
-Live demo (≤100 candidates): [HuggingFace Space link here]
+Live demo (≤100 candidates): https://huggingface.co/spaces/radioacktiwe/redrob
 
 ## Files
 
